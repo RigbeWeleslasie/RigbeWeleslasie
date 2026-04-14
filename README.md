@@ -50,6 +50,8 @@
 ### 🗄️ Databases:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/chromadb-%23FF6F61.svg?style=for-the-badge)
 
 ---
 
@@ -58,7 +60,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ---
 
 ### 🧪 Testing:
@@ -80,6 +84,12 @@
 - Generates interview questions & analyzes responses  
 - Built with Django REST APIs + AI integrations  
 
+---
+### 📚 EduAccess AI Study Assistant
+- AI-powered learning assistant for students in low-connectivity environments  
+- Accessible via web/WhatsApp-style interface  
+- Helps students ask questions and receive simplified explanations  
+- Built with Django backend + AI integration 
 ---
 
 ### 🎬 Movie Recommendation Agent
