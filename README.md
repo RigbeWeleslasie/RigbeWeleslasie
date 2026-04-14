@@ -17,11 +17,6 @@
 
 ---
 
-## ☕ Support Me:
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_USERNAME)
-
----
-
 ## 💻 Tech Stack:
 
 ### 🧠 Languages:
@@ -107,11 +102,6 @@
 
 ### ✅ Task Tracker
 - Full-stack productivity app for managing daily tasks  
-
----
-
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=RigbeWeleslasie&show_icons=true&theme=radical)
 
 ---
 
