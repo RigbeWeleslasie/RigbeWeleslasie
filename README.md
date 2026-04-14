@@ -6,21 +6,15 @@
 ## 💫 About Me:
 - 👋 Hi, I’m Your Name  
 - 🌍 I’m passionate about software development and technology  
-- 🎓 Graduate of [Your Program / School]  
+- 🎓 Graduate of [codeHive / AkiraChix]  
 - 💡 I love building solutions for real-world problems  
 - 🤝 I’m open to collaborating on innovative projects  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rigbe-w-weleslasie-11a6403a7?]
 
----
-
-## ☕ Support Me:
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_USERNAME)
-
----
 
 ## 💻 Tech Stack:
 
