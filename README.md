@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Rigbe Welu Weleslasie</h1>
 <h3 align="center">Full-Stack Software Developer 🚀</h3>
 
 ---
 
 ## 💫 About Me:
-- 👋 Hi, I’m Your Name  
+- 👋 Hi, I’m Rigbe Welu Weleslasie  
 - 🌍 I’m passionate about software development and technology  
 - 🎓 Graduate of [codeHive / AkiraChix]  
 - 💡 I love building solutions for real-world problems  
