@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 👋 Hi, I’m Rigbe  
 - 💡 Passionate about turning real-world problems into efficient tech solutions  
-- 🎓 Information Technology – AkiraChix (CodeHive Program)  
+- 🎓 Diploma in Information Technology – AkiraChix (CodeHive Program)  
 - 🤖 Interested in AI, Backend Systems & Data-driven applications  
 - 🤝 Open to collaborating on impactful and innovative projects  
 
